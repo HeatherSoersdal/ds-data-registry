@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_SHEETS",
+  "name": "Google Sheets",
+  "categories": ["SPREADSHEET", "CUSTOM"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2saPASNQaWzk3n5OvSnkAU-c912a0e13d9947bd5c831dd37283cea2-Sheets_Template5050Hero_Logo.svg",
+  "sourceUrl": "https://workspace.google.com/products/sheets/",
+  "dataVisibility": ["PRIVATE"]
+}
