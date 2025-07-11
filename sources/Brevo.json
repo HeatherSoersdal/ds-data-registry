@@ -1,0 +1,10 @@
+{
+  "id": "BREVO",
+  "name": "Brevo",
+  "categories": ["EMAIL"],
+  "organization": "BREVO",
+  "iconUrl":
+    "https://corp-backend.brevo.com/wp-content/uploads/2023/04/Brevo-Logo-1.jp",
+  "sourceUrl": "https://www.brevo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
