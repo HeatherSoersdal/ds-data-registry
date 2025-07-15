@@ -1,0 +1,10 @@
+{
+  "id": "VEEQO",
+  "name": "Veeqo",
+  "categories": ["ECOMMERCE"],
+  "organization": "VEEQO",
+  "iconUrl":
+    "https://images.ctfassets.net/hfb264dqso7g/4CWMyWrDIDLlYpvvv2XlqL/ff2d361ca1cef02916f22ebbc86cc544/Veeqo.svg",
+  "sourceUrl": "https://www.veeqo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
